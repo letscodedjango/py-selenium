@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e238a16f-8d2b-4b0a-aa27-7bb6867f9c95" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YWAs1N9h0o4JYDmg3SpE6sxdj0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunManager" selected="Python.relative_xpath">
+    <configuration name="open_chrome" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PySelenium" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pyselenium" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pyselenium/open_chrome.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="relative_xpath" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PySelenium" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pyselenium" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pyselenium/relative_xpath.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.relative_xpath" />
+        <item itemvalue="Python.open_chrome" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e238a16f-8d2b-4b0a-aa27-7bb6867f9c95" name="Default Changelist" comment="" />
+      <created>1583048180013</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583048180013</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="147" y="0" width="1071" height="702" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583048511257">
+      <screen x="0" y="0" width="1366" height="702" />
+    </state>
+    <state x="147" y="0" width="1071" height="702" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.702@0.0.1366.702" timestamp="1583048511257" />
+    <state x="165" y="161" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1583048387888">
+      <screen x="0" y="0" width="1366" height="702" />
+    </state>
+    <state x="165" y="161" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.702@0.0.1366.702" timestamp="1583048387888" />
+    <state width="1314" height="177" key="GridCell.Tab.0.bottom" timestamp="1583052637222">
+      <screen x="0" y="23" width="1366" height="682" />
+    </state>
+    <state width="1334" height="177" key="GridCell.Tab.0.bottom/0.0.1366.702@0.0.1366.702" timestamp="1583050072628" />
+    <state width="1334" height="177" key="GridCell.Tab.0.bottom/0.0.1366.705@0.0.1366.705" timestamp="1583050719761" />
+    <state width="1334" height="177" key="GridCell.Tab.0.bottom/0.0.1366.707@0.0.1366.707" timestamp="1583050808724" />
+    <state width="1314" height="177" key="GridCell.Tab.0.bottom/0.23.1366.679@0.23.1366.679" timestamp="1583051655623" />
+    <state width="1314" height="177" key="GridCell.Tab.0.bottom/0.23.1366.682@0.23.1366.682" timestamp="1583052637222" />
+    <state width="1314" height="177" key="GridCell.Tab.0.center" timestamp="1583052637216">
+      <screen x="0" y="23" width="1366" height="682" />
+    </state>
+    <state width="1334" height="177" key="GridCell.Tab.0.center/0.0.1366.702@0.0.1366.702" timestamp="1583050072627" />
+    <state width="1334" height="177" key="GridCell.Tab.0.center/0.0.1366.705@0.0.1366.705" timestamp="1583050719760" />
+    <state width="1334" height="177" key="GridCell.Tab.0.center/0.0.1366.707@0.0.1366.707" timestamp="1583050808722" />
+    <state width="1314" height="177" key="GridCell.Tab.0.center/0.23.1366.679@0.23.1366.679" timestamp="1583051655622" />
+    <state width="1314" height="177" key="GridCell.Tab.0.center/0.23.1366.682@0.23.1366.682" timestamp="1583052637216" />
+    <state width="1314" height="177" key="GridCell.Tab.0.left" timestamp="1583052637215">
+      <screen x="0" y="23" width="1366" height="682" />
+    </state>
+    <state width="1334" height="177" key="GridCell.Tab.0.left/0.0.1366.702@0.0.1366.702" timestamp="1583050072626" />
+    <state width="1334" height="177" key="GridCell.Tab.0.left/0.0.1366.705@0.0.1366.705" timestamp="1583050719759" />
+    <state width="1334" height="177" key="GridCell.Tab.0.left/0.0.1366.707@0.0.1366.707" timestamp="1583050808721" />
+    <state width="1314" height="177" key="GridCell.Tab.0.left/0.23.1366.679@0.23.1366.679" timestamp="1583051655621" />
+    <state width="1314" height="177" key="GridCell.Tab.0.left/0.23.1366.682@0.23.1366.682" timestamp="1583052637215" />
+    <state width="1314" height="177" key="GridCell.Tab.0.right" timestamp="1583052637221">
+      <screen x="0" y="23" width="1366" height="682" />
+    </state>
+    <state width="1334" height="177" key="GridCell.Tab.0.right/0.0.1366.702@0.0.1366.702" timestamp="1583050072628" />
+    <state width="1334" height="177" key="GridCell.Tab.0.right/0.0.1366.705@0.0.1366.705" timestamp="1583050719760" />
+    <state width="1334" height="177" key="GridCell.Tab.0.right/0.0.1366.707@0.0.1366.707" timestamp="1583050808723" />
+    <state width="1314" height="177" key="GridCell.Tab.0.right/0.23.1366.679@0.23.1366.679" timestamp="1583051655622" />
+    <state width="1314" height="177" key="GridCell.Tab.0.right/0.23.1366.682@0.23.1366.682" timestamp="1583052637221" />
+    <state x="16" y="0" width="1350" height="702" key="SettingsEditor" timestamp="1583048339623">
+      <screen x="0" y="0" width="1366" height="702" />
+    </state>
+    <state x="16" y="0" width="1350" height="702" key="SettingsEditor/0.0.1366.702@0.0.1366.702" timestamp="1583048339623" />
+  </component>
+</project>
