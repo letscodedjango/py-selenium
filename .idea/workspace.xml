@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e238a16f-8d2b-4b0a-aa27-7bb6867f9c95" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/pyselenium/access_elements.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyselenium/left_panel_items_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyselenium/add_contacts.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyselenium/left_panel_items_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/pyselenium/left_panel_items_test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +34,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Python.left_panel_items_test">
+  <component name="RunManager" selected="Python.add_contacts">
     <configuration name="access_elements" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PySelenium" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -48,6 +48,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pyselenium/access_elements.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="add_contacts" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PySelenium" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pyselenium" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pyselenium/add_contacts.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -121,6 +142,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.add_contacts" />
         <item itemvalue="Python.left_panel_items_test" />
         <item itemvalue="Python.access_elements" />
         <item itemvalue="Python.relative_xpath" />
@@ -150,10 +172,10 @@
       <screen x="0" y="0" width="1366" height="702" />
     </state>
     <state x="165" y="161" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.702@0.0.1366.702" timestamp="1583048387888" />
-    <state width="1338" height="154" key="GridCell.Tab.0.bottom" timestamp="1583577210070">
-      <screen x="0" y="23" width="1366" height="682" />
+    <state width="1343" height="199" key="GridCell.Tab.0.bottom" timestamp="1583661096561">
+      <screen x="0" y="0" width="1366" height="702" />
     </state>
-    <state width="1334" height="177" key="GridCell.Tab.0.bottom/0.0.1366.702@0.0.1366.702" timestamp="1583050072628" />
+    <state width="1343" height="199" key="GridCell.Tab.0.bottom/0.0.1366.702@0.0.1366.702" timestamp="1583661096561" />
     <state width="1338" height="184" key="GridCell.Tab.0.bottom/0.0.1366.703@0.0.1366.703" timestamp="1583056984041" />
     <state width="1334" height="177" key="GridCell.Tab.0.bottom/0.0.1366.705@0.0.1366.705" timestamp="1583050719761" />
     <state width="1334" height="177" key="GridCell.Tab.0.bottom/0.0.1366.707@0.0.1366.707" timestamp="1583050808724" />
@@ -162,12 +184,11 @@
     <state width="1338" height="255" key="GridCell.Tab.0.bottom/0.0.1366.715@0.0.1366.715" timestamp="1583574886886" />
     <state width="1338" height="255" key="GridCell.Tab.0.bottom/0.0.1366.716@0.0.1366.716" timestamp="1583572893847" />
     <state width="1314" height="177" key="GridCell.Tab.0.bottom/0.23.1366.679@0.23.1366.679" timestamp="1583051655623" />
-    <state width="1338" height="154" key="GridCell.Tab.0.bottom/0.23.1366.682@0.23.1366.682" timestamp="1583577210070" />
-    <state width="1338" height="-5" key="GridCell.Tab.0.bottom/0.23.1366.689@0.23.1366.689" timestamp="1583576637180" />
-    <state width="1338" height="154" key="GridCell.Tab.0.center" timestamp="1583577210068">
-      <screen x="0" y="23" width="1366" height="682" />
+    <state width="1338" height="154" key="GridCell.Tab.0.bottom/0.23.1366.682@0.23.1366.682" timestamp="1583578610699" />
+    <state width="1343" height="199" key="GridCell.Tab.0.center" timestamp="1583661096560">
+      <screen x="0" y="0" width="1366" height="702" />
     </state>
-    <state width="1334" height="177" key="GridCell.Tab.0.center/0.0.1366.702@0.0.1366.702" timestamp="1583050072627" />
+    <state width="1343" height="199" key="GridCell.Tab.0.center/0.0.1366.702@0.0.1366.702" timestamp="1583661096560" />
     <state width="1338" height="184" key="GridCell.Tab.0.center/0.0.1366.703@0.0.1366.703" timestamp="1583056984040" />
     <state width="1334" height="177" key="GridCell.Tab.0.center/0.0.1366.705@0.0.1366.705" timestamp="1583050719760" />
     <state width="1334" height="177" key="GridCell.Tab.0.center/0.0.1366.707@0.0.1366.707" timestamp="1583050808722" />
@@ -176,12 +197,11 @@
     <state width="1338" height="255" key="GridCell.Tab.0.center/0.0.1366.715@0.0.1366.715" timestamp="1583574886884" />
     <state width="1338" height="255" key="GridCell.Tab.0.center/0.0.1366.716@0.0.1366.716" timestamp="1583572893846" />
     <state width="1314" height="177" key="GridCell.Tab.0.center/0.23.1366.679@0.23.1366.679" timestamp="1583051655622" />
-    <state width="1338" height="154" key="GridCell.Tab.0.center/0.23.1366.682@0.23.1366.682" timestamp="1583577210068" />
-    <state width="1338" height="-5" key="GridCell.Tab.0.center/0.23.1366.689@0.23.1366.689" timestamp="1583576637178" />
-    <state width="1338" height="154" key="GridCell.Tab.0.left" timestamp="1583577210067">
-      <screen x="0" y="23" width="1366" height="682" />
+    <state width="1338" height="154" key="GridCell.Tab.0.center/0.23.1366.682@0.23.1366.682" timestamp="1583578610698" />
+    <state width="1343" height="199" key="GridCell.Tab.0.left" timestamp="1583661096559">
+      <screen x="0" y="0" width="1366" height="702" />
     </state>
-    <state width="1334" height="177" key="GridCell.Tab.0.left/0.0.1366.702@0.0.1366.702" timestamp="1583050072626" />
+    <state width="1343" height="199" key="GridCell.Tab.0.left/0.0.1366.702@0.0.1366.702" timestamp="1583661096559" />
     <state width="1338" height="184" key="GridCell.Tab.0.left/0.0.1366.703@0.0.1366.703" timestamp="1583056984039" />
     <state width="1334" height="177" key="GridCell.Tab.0.left/0.0.1366.705@0.0.1366.705" timestamp="1583050719759" />
     <state width="1334" height="177" key="GridCell.Tab.0.left/0.0.1366.707@0.0.1366.707" timestamp="1583050808721" />
@@ -190,12 +210,11 @@
     <state width="1338" height="255" key="GridCell.Tab.0.left/0.0.1366.715@0.0.1366.715" timestamp="1583574886883" />
     <state width="1338" height="255" key="GridCell.Tab.0.left/0.0.1366.716@0.0.1366.716" timestamp="1583572893844" />
     <state width="1314" height="177" key="GridCell.Tab.0.left/0.23.1366.679@0.23.1366.679" timestamp="1583051655621" />
-    <state width="1338" height="154" key="GridCell.Tab.0.left/0.23.1366.682@0.23.1366.682" timestamp="1583577210067" />
-    <state width="1338" height="-5" key="GridCell.Tab.0.left/0.23.1366.689@0.23.1366.689" timestamp="1583576637178" />
-    <state width="1338" height="154" key="GridCell.Tab.0.right" timestamp="1583577210069">
-      <screen x="0" y="23" width="1366" height="682" />
+    <state width="1338" height="154" key="GridCell.Tab.0.left/0.23.1366.682@0.23.1366.682" timestamp="1583578610697" />
+    <state width="1343" height="199" key="GridCell.Tab.0.right" timestamp="1583661096561">
+      <screen x="0" y="0" width="1366" height="702" />
     </state>
-    <state width="1334" height="177" key="GridCell.Tab.0.right/0.0.1366.702@0.0.1366.702" timestamp="1583050072628" />
+    <state width="1343" height="199" key="GridCell.Tab.0.right/0.0.1366.702@0.0.1366.702" timestamp="1583661096561" />
     <state width="1338" height="184" key="GridCell.Tab.0.right/0.0.1366.703@0.0.1366.703" timestamp="1583056984041" />
     <state width="1334" height="177" key="GridCell.Tab.0.right/0.0.1366.705@0.0.1366.705" timestamp="1583050719760" />
     <state width="1334" height="177" key="GridCell.Tab.0.right/0.0.1366.707@0.0.1366.707" timestamp="1583050808723" />
@@ -204,12 +223,11 @@
     <state width="1338" height="255" key="GridCell.Tab.0.right/0.0.1366.715@0.0.1366.715" timestamp="1583574886885" />
     <state width="1338" height="255" key="GridCell.Tab.0.right/0.0.1366.716@0.0.1366.716" timestamp="1583572893847" />
     <state width="1314" height="177" key="GridCell.Tab.0.right/0.23.1366.679@0.23.1366.679" timestamp="1583051655622" />
-    <state width="1338" height="154" key="GridCell.Tab.0.right/0.23.1366.682@0.23.1366.682" timestamp="1583577210069" />
-    <state width="1338" height="-5" key="GridCell.Tab.0.right/0.23.1366.689@0.23.1366.689" timestamp="1583576637179" />
-    <state x="16" y="0" width="1350" height="713" key="SettingsEditor" timestamp="1583567451428">
-      <screen x="0" y="0" width="1366" height="713" />
+    <state width="1338" height="154" key="GridCell.Tab.0.right/0.23.1366.682@0.23.1366.682" timestamp="1583578610699" />
+    <state x="16" y="0" width="1350" height="713" key="SettingsEditor" timestamp="1583661284393">
+      <screen x="0" y="0" width="1366" height="702" />
     </state>
-    <state x="16" y="0" width="1350" height="702" key="SettingsEditor/0.0.1366.702@0.0.1366.702" timestamp="1583048339623" />
+    <state x="16" y="0" width="1350" height="702" key="SettingsEditor/0.0.1366.702@0.0.1366.702" timestamp="1583661284393" />
     <state x="16" y="0" key="SettingsEditor/0.0.1366.703@0.0.1366.703" timestamp="1583056962040" />
     <state x="16" y="0" width="1350" height="713" key="SettingsEditor/0.0.1366.713@0.0.1366.713" timestamp="1583567451428" />
     <state x="250" y="23" width="875" height="1032" key="search.everywhere.popup" timestamp="1583577046641">

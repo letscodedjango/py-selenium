@@ -3,6 +3,9 @@ import time
 
 from time import sleep
 
+
+
+
 driver = webdriver.Chrome(executable_path="/Users/gaurnitai/Desktop/PySelenium/drivers/chromedriver")
 
 driver.get("https://freecrm.co.in/")
