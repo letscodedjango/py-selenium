@@ -33,8 +33,8 @@ for expected_product in expected_product_list:
         if (product.text == expected_product):
             product.click()
             sleep(2)
-            parent_window = driver.current_window_handle
-            windows_list = driver.window_handles
+            parent_window = driver.current_window_handle  # parent window - String
+            windows_list = driver.window_handles  # parent & child windows - Set of Strings
             for window in windows_list:
                 if (window != parent_window):
                     driver.switch_to.window(window)
