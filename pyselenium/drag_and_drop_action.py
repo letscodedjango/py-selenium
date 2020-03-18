@@ -45,18 +45,21 @@ driver.execute_script("arguments[0].scrollIntoView();", slider_link)
 slider_link.click()
 
 
-driver.switch_to.frame(0)
+driver.execute_script("window.scrollBy(0,-250);")
 
-driver.execute_script("arguments[0].scrollIntoView();", slider_link)
+sleep(5)
 
+iframe = driver.find_elements_by_tag_name("iframe")[0]
+
+driver.switch_to.frame(iframe)
+
+#driver.execute_script("window.scrollBy(x-pixels,y-pixels)");
 
 slider = driver.find_element_by_xpath("//div[@id='slider']//span")
 
-
 actions.drag_and_drop_by_offset(slider, 100, 0).perform()
 
-
-
 sleep(5)
+
 driver.close()
 driver.quit()
