@@ -7,6 +7,7 @@ from selenium.webdriver.support import expected_conditions
 from selenium.webdriver.support.wait import WebDriverWait
 
 from utility.explicit_wait import ExplicitWait
+from utility.take_screenshot import TakeScreenshot
 
 driver = webdriver.Chrome(executable_path="/Users/gaurnitai/Desktop/PySelenium/drivers/chromedriver")
 
@@ -19,7 +20,16 @@ driver.implicitly_wait(5);
 
 driver.maximize_window()
 
+take_ss = TakeScreenshot(driver)
+
+# screenshot_folder_path = "/Users/gaurnitai/Desktop/PySelenium/screenshots/"
+
+# driver.save_screenshot(screenshot_folder_path + "homepage.png")
+
+take_ss.take_screenshot_with_random_filename()
+
 driver.switch_to.frame(0);
+
 
 section_one = driver.find_element_by_css_selector("div[aria-labelledby='ui-id-1']>p")
 section_one_content = section_one.text
@@ -31,6 +41,7 @@ section_one_content = section_one.text
 section_two_head = driver.find_element_by_css_selector("#ui-id-3")
 section_two_head.click()
 
+driver.save_screenshot(screenshot_folder_path + "section.png")
 #  dot(.) represents class in css selector
 # section_two_head = driver.find_element_by_css_selector("div[class='ui-id-3']")
 # section_two_head = driver.find_element_by_css_selector(".ui-id-3")
