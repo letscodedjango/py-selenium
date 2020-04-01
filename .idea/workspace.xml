@@ -2,18 +2,42 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e238a16f-8d2b-4b0a-aa27-7bb6867f9c95" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/pyselenium/screenshot_website.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/1585496273414.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/1585496276713.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/1585496278454.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/34.13831174843984.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/545.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/homepage.png.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshotsanotherloading.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshotsloading.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utility/take_screenshot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drivers/geckodriver" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/geckodriver.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytestclass/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytestclass/class_to_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytestclass/conftest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytestclass/test_pyclass_fixture.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytestclass/test_pyclass_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytestfunctions/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytestfunctions/arithmetic_module.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytestfunctions/geckodriver.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytestfunctions/py_functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytestfunctions/py_functions_one.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytestfunctions/py_functions_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytestfunctions/test_arithmetic_module.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytestfunctions/test_py_functions_one.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyunittest/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyunittest/conftest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyunittest/geckodriver.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyunittest/pytestfixture.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyunittest/pytestone.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyunittest/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyunittest/test_browserlaunch.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyunittest/test_case_run_order.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyunittest/test_case_run_order_relative.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyunittest/test_conftest_demo1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyunittest/test_conftest_demo2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyunittest/test_conftest_demo3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyunittest/test_run_after_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyunittest/test_run_test_multiple_way.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyunittest/testbrowserlaunch.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyunittest/testwebsite.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyunittest/website_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/PySelenium.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PySelenium.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyselenium/selenium_waits.py" beforeDir="false" afterPath="$PROJECT_DIR$/pyselenium/selenium_waits.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,11 +67,18 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pytestfunctions" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.selenium_waits">
-    <configuration name="alert_handle" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/pytestfunctions" />
+      <recent name="$PROJECT_DIR$/pytestclass" />
+      <recent name="$PROJECT_DIR$/pyunittest" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.py_functions">
+    <configuration name="py_functions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PySelenium" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -55,11 +86,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pyselenium" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pytestfunctions" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pyselenium/alert_handle.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pytestfunctions/py_functions.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -68,7 +99,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="indigo_se_wait" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="pytestone" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PySelenium" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -76,53 +107,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pyselenium" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pyunittest" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pyselenium/indigo_se_wait.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="key_using_action" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PySelenium" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pyselenium" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pyselenium/key_using_action.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="screenshot_website" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PySelenium" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pyselenium" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pyselenium/screenshot_website.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pyunittest/pytestone.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -152,13 +141,55 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="testbrowserlaunch" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PySelenium" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pyunittest" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pyunittest/testbrowserlaunch.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="testwebsite" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PySelenium" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pyunittest" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pyunittest/testwebsite.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.py_functions" />
+        <item itemvalue="Python.pytestone" />
+        <item itemvalue="Python.testwebsite" />
+        <item itemvalue="Python.testbrowserlaunch" />
         <item itemvalue="Python.selenium_waits" />
-        <item itemvalue="Python.screenshot_website" />
-        <item itemvalue="Python.indigo_se_wait" />
-        <item itemvalue="Python.key_using_action" />
-        <item itemvalue="Python.alert_handle" />
       </list>
     </recent_temporary>
   </component>
@@ -187,8 +218,8 @@
       <screen x="0" y="0" width="1366" height="702" />
     </state>
     <state x="165" y="161" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.702@0.0.1366.702" timestamp="1583048387888" />
-    <state width="1257" height="189" key="GridCell.Tab.0.bottom" timestamp="1585496973792">
-      <screen x="0" y="23" width="1280" height="724" />
+    <state width="1257" height="160" key="GridCell.Tab.0.bottom" timestamp="1585757536088">
+      <screen x="0" y="23" width="1280" height="722" />
     </state>
     <state width="1257" height="198" key="GridCell.Tab.0.bottom/0.0.1280.745@0.0.1280.745" timestamp="1583676225750" />
     <state width="1343" height="133" key="GridCell.Tab.0.bottom/0.0.1366.702@0.0.1366.702" timestamp="1583661594616" />
@@ -200,19 +231,19 @@
     <state width="1338" height="255" key="GridCell.Tab.0.bottom/0.0.1366.715@0.0.1366.715" timestamp="1583574886886" />
     <state width="1338" height="255" key="GridCell.Tab.0.bottom/0.0.1366.716@0.0.1366.716" timestamp="1583572893847" />
     <state width="1257" height="259" key="GridCell.Tab.0.bottom/0.23.1280.711@0.23.1280.711" timestamp="1584785344213" />
-    <state width="1257" height="73" key="GridCell.Tab.0.bottom/0.23.1280.712@0.23.1280.712" timestamp="1585489071431" />
-    <state width="1257" height="279" key="GridCell.Tab.0.bottom/0.23.1280.714@0.23.1280.714" timestamp="1585492010672" />
-    <state width="1257" height="279" key="GridCell.Tab.0.bottom/0.23.1280.716@0.23.1280.716" timestamp="1585492105160" />
-    <state width="1257" height="189" key="GridCell.Tab.0.bottom/0.23.1280.717@0.23.1280.717" timestamp="1585496902902" />
-    <state width="1257" height="189" key="GridCell.Tab.0.bottom/0.23.1280.722@0.23.1280.722" timestamp="1585496935714" />
+    <state width="1257" height="130" key="GridCell.Tab.0.bottom/0.23.1280.712@0.23.1280.712" timestamp="1585501498265" />
+    <state width="1257" height="190" key="GridCell.Tab.0.bottom/0.23.1280.714@0.23.1280.714" timestamp="1585724439653" />
+    <state width="1257" height="227" key="GridCell.Tab.0.bottom/0.23.1280.716@0.23.1280.716" timestamp="1585755959847" />
+    <state width="1257" height="227" key="GridCell.Tab.0.bottom/0.23.1280.717@0.23.1280.717" timestamp="1585756390943" />
+    <state width="1257" height="160" key="GridCell.Tab.0.bottom/0.23.1280.722@0.23.1280.722" timestamp="1585757536088" />
     <state width="1257" height="189" key="GridCell.Tab.0.bottom/0.23.1280.724@0.23.1280.724" timestamp="1585496973792" />
     <state width="1257" height="19" key="GridCell.Tab.0.bottom/0.23.1280.725@0.23.1280.725" timestamp="1585410296264" />
     <state width="1257" height="19" key="GridCell.Tab.0.bottom/0.23.1280.726@0.23.1280.726" timestamp="1585411306030" />
     <state width="1343" height="133" key="GridCell.Tab.0.bottom/0.23.1366.679@0.23.1366.679" timestamp="1583667345263" />
     <state width="1257" height="224" key="GridCell.Tab.0.bottom/0.23.1366.680@0.23.1366.680" timestamp="1583667494681" />
     <state width="1338" height="154" key="GridCell.Tab.0.bottom/0.23.1366.682@0.23.1366.682" timestamp="1583578610699" />
-    <state width="1257" height="189" key="GridCell.Tab.0.center" timestamp="1585496973790">
-      <screen x="0" y="23" width="1280" height="724" />
+    <state width="1257" height="160" key="GridCell.Tab.0.center" timestamp="1585757536087">
+      <screen x="0" y="23" width="1280" height="722" />
     </state>
     <state width="1257" height="198" key="GridCell.Tab.0.center/0.0.1280.745@0.0.1280.745" timestamp="1583676225749" />
     <state width="1343" height="133" key="GridCell.Tab.0.center/0.0.1366.702@0.0.1366.702" timestamp="1583661594615" />
@@ -224,19 +255,19 @@
     <state width="1338" height="255" key="GridCell.Tab.0.center/0.0.1366.715@0.0.1366.715" timestamp="1583574886884" />
     <state width="1338" height="255" key="GridCell.Tab.0.center/0.0.1366.716@0.0.1366.716" timestamp="1583572893846" />
     <state width="1257" height="259" key="GridCell.Tab.0.center/0.23.1280.711@0.23.1280.711" timestamp="1584785344211" />
-    <state width="1257" height="73" key="GridCell.Tab.0.center/0.23.1280.712@0.23.1280.712" timestamp="1585489071430" />
-    <state width="1257" height="279" key="GridCell.Tab.0.center/0.23.1280.714@0.23.1280.714" timestamp="1585492010671" />
-    <state width="1257" height="279" key="GridCell.Tab.0.center/0.23.1280.716@0.23.1280.716" timestamp="1585492105159" />
-    <state width="1257" height="189" key="GridCell.Tab.0.center/0.23.1280.717@0.23.1280.717" timestamp="1585496902901" />
-    <state width="1257" height="189" key="GridCell.Tab.0.center/0.23.1280.722@0.23.1280.722" timestamp="1585496935713" />
+    <state width="1257" height="130" key="GridCell.Tab.0.center/0.23.1280.712@0.23.1280.712" timestamp="1585501498264" />
+    <state width="1257" height="190" key="GridCell.Tab.0.center/0.23.1280.714@0.23.1280.714" timestamp="1585724439652" />
+    <state width="1257" height="227" key="GridCell.Tab.0.center/0.23.1280.716@0.23.1280.716" timestamp="1585755959846" />
+    <state width="1257" height="227" key="GridCell.Tab.0.center/0.23.1280.717@0.23.1280.717" timestamp="1585756390942" />
+    <state width="1257" height="160" key="GridCell.Tab.0.center/0.23.1280.722@0.23.1280.722" timestamp="1585757536087" />
     <state width="1257" height="189" key="GridCell.Tab.0.center/0.23.1280.724@0.23.1280.724" timestamp="1585496973790" />
     <state width="1257" height="19" key="GridCell.Tab.0.center/0.23.1280.725@0.23.1280.725" timestamp="1585410296263" />
     <state width="1257" height="19" key="GridCell.Tab.0.center/0.23.1280.726@0.23.1280.726" timestamp="1585411306030" />
     <state width="1343" height="133" key="GridCell.Tab.0.center/0.23.1366.679@0.23.1366.679" timestamp="1583667345262" />
     <state width="1257" height="224" key="GridCell.Tab.0.center/0.23.1366.680@0.23.1366.680" timestamp="1583667494680" />
     <state width="1338" height="154" key="GridCell.Tab.0.center/0.23.1366.682@0.23.1366.682" timestamp="1583578610698" />
-    <state width="1257" height="189" key="GridCell.Tab.0.left" timestamp="1585496973789">
-      <screen x="0" y="23" width="1280" height="724" />
+    <state width="1257" height="160" key="GridCell.Tab.0.left" timestamp="1585757536087">
+      <screen x="0" y="23" width="1280" height="722" />
     </state>
     <state width="1257" height="198" key="GridCell.Tab.0.left/0.0.1280.745@0.0.1280.745" timestamp="1583676225748" />
     <state width="1343" height="133" key="GridCell.Tab.0.left/0.0.1366.702@0.0.1366.702" timestamp="1583661594614" />
@@ -248,19 +279,19 @@
     <state width="1338" height="255" key="GridCell.Tab.0.left/0.0.1366.715@0.0.1366.715" timestamp="1583574886883" />
     <state width="1338" height="255" key="GridCell.Tab.0.left/0.0.1366.716@0.0.1366.716" timestamp="1583572893844" />
     <state width="1257" height="259" key="GridCell.Tab.0.left/0.23.1280.711@0.23.1280.711" timestamp="1584785344210" />
-    <state width="1257" height="73" key="GridCell.Tab.0.left/0.23.1280.712@0.23.1280.712" timestamp="1585489071429" />
-    <state width="1257" height="279" key="GridCell.Tab.0.left/0.23.1280.714@0.23.1280.714" timestamp="1585492010670" />
-    <state width="1257" height="279" key="GridCell.Tab.0.left/0.23.1280.716@0.23.1280.716" timestamp="1585492105159" />
-    <state width="1257" height="189" key="GridCell.Tab.0.left/0.23.1280.717@0.23.1280.717" timestamp="1585496902900" />
-    <state width="1257" height="189" key="GridCell.Tab.0.left/0.23.1280.722@0.23.1280.722" timestamp="1585496935712" />
+    <state width="1257" height="130" key="GridCell.Tab.0.left/0.23.1280.712@0.23.1280.712" timestamp="1585501498263" />
+    <state width="1257" height="190" key="GridCell.Tab.0.left/0.23.1280.714@0.23.1280.714" timestamp="1585724439652" />
+    <state width="1257" height="227" key="GridCell.Tab.0.left/0.23.1280.716@0.23.1280.716" timestamp="1585755959845" />
+    <state width="1257" height="227" key="GridCell.Tab.0.left/0.23.1280.717@0.23.1280.717" timestamp="1585756390941" />
+    <state width="1257" height="160" key="GridCell.Tab.0.left/0.23.1280.722@0.23.1280.722" timestamp="1585757536087" />
     <state width="1257" height="189" key="GridCell.Tab.0.left/0.23.1280.724@0.23.1280.724" timestamp="1585496973789" />
     <state width="1257" height="19" key="GridCell.Tab.0.left/0.23.1280.725@0.23.1280.725" timestamp="1585410296262" />
     <state width="1257" height="19" key="GridCell.Tab.0.left/0.23.1280.726@0.23.1280.726" timestamp="1585411306029" />
     <state width="1343" height="133" key="GridCell.Tab.0.left/0.23.1366.679@0.23.1366.679" timestamp="1583667345261" />
     <state width="1257" height="224" key="GridCell.Tab.0.left/0.23.1366.680@0.23.1366.680" timestamp="1583667494679" />
     <state width="1338" height="154" key="GridCell.Tab.0.left/0.23.1366.682@0.23.1366.682" timestamp="1583578610697" />
-    <state width="1257" height="189" key="GridCell.Tab.0.right" timestamp="1585496973791">
-      <screen x="0" y="23" width="1280" height="724" />
+    <state width="1257" height="160" key="GridCell.Tab.0.right" timestamp="1585757536088">
+      <screen x="0" y="23" width="1280" height="722" />
     </state>
     <state width="1257" height="198" key="GridCell.Tab.0.right/0.0.1280.745@0.0.1280.745" timestamp="1583676225749" />
     <state width="1343" height="133" key="GridCell.Tab.0.right/0.0.1366.702@0.0.1366.702" timestamp="1583661594615" />
@@ -272,23 +303,25 @@
     <state width="1338" height="255" key="GridCell.Tab.0.right/0.0.1366.715@0.0.1366.715" timestamp="1583574886885" />
     <state width="1338" height="255" key="GridCell.Tab.0.right/0.0.1366.716@0.0.1366.716" timestamp="1583572893847" />
     <state width="1257" height="259" key="GridCell.Tab.0.right/0.23.1280.711@0.23.1280.711" timestamp="1584785344211" />
-    <state width="1257" height="73" key="GridCell.Tab.0.right/0.23.1280.712@0.23.1280.712" timestamp="1585489071431" />
-    <state width="1257" height="279" key="GridCell.Tab.0.right/0.23.1280.714@0.23.1280.714" timestamp="1585492010672" />
-    <state width="1257" height="279" key="GridCell.Tab.0.right/0.23.1280.716@0.23.1280.716" timestamp="1585492105160" />
-    <state width="1257" height="189" key="GridCell.Tab.0.right/0.23.1280.717@0.23.1280.717" timestamp="1585496902901" />
-    <state width="1257" height="189" key="GridCell.Tab.0.right/0.23.1280.722@0.23.1280.722" timestamp="1585496935714" />
+    <state width="1257" height="130" key="GridCell.Tab.0.right/0.23.1280.712@0.23.1280.712" timestamp="1585501498264" />
+    <state width="1257" height="190" key="GridCell.Tab.0.right/0.23.1280.714@0.23.1280.714" timestamp="1585724439652" />
+    <state width="1257" height="227" key="GridCell.Tab.0.right/0.23.1280.716@0.23.1280.716" timestamp="1585755959846" />
+    <state width="1257" height="227" key="GridCell.Tab.0.right/0.23.1280.717@0.23.1280.717" timestamp="1585756390942" />
+    <state width="1257" height="160" key="GridCell.Tab.0.right/0.23.1280.722@0.23.1280.722" timestamp="1585757536088" />
     <state width="1257" height="189" key="GridCell.Tab.0.right/0.23.1280.724@0.23.1280.724" timestamp="1585496973791" />
     <state width="1257" height="19" key="GridCell.Tab.0.right/0.23.1280.725@0.23.1280.725" timestamp="1585410296264" />
     <state width="1257" height="19" key="GridCell.Tab.0.right/0.23.1280.726@0.23.1280.726" timestamp="1585411306030" />
     <state width="1343" height="133" key="GridCell.Tab.0.right/0.23.1366.679@0.23.1366.679" timestamp="1583667345262" />
     <state width="1257" height="224" key="GridCell.Tab.0.right/0.23.1366.680@0.23.1366.680" timestamp="1583667494680" />
     <state width="1338" height="154" key="GridCell.Tab.0.right/0.23.1366.682@0.23.1366.682" timestamp="1583578610699" />
-    <state x="16" y="0" width="1350" height="713" key="SettingsEditor" timestamp="1583661284393">
-      <screen x="0" y="0" width="1366" height="702" />
+    <state x="14" y="23" width="922" height="714" key="SettingsEditor" timestamp="1585724645525">
+      <screen x="0" y="23" width="1280" height="714" />
     </state>
     <state x="16" y="0" width="1350" height="702" key="SettingsEditor/0.0.1366.702@0.0.1366.702" timestamp="1583661284393" />
     <state x="16" y="0" key="SettingsEditor/0.0.1366.703@0.0.1366.703" timestamp="1583056962040" />
     <state x="16" y="0" width="1350" height="713" key="SettingsEditor/0.0.1366.713@0.0.1366.713" timestamp="1583567451428" />
+    <state x="14" y="23" width="922" height="714" key="SettingsEditor/0.23.1280.714@0.23.1280.714" timestamp="1585724645525" />
+    <state x="14" y="23" width="1266" height="716" key="SettingsEditor/0.23.1280.716@0.23.1280.716" timestamp="1585724248495" />
     <state x="282" y="213" key="com.intellij.ide.util.TipDialog" timestamp="1585488162405">
       <screen x="0" y="23" width="1280" height="712" />
     </state>
