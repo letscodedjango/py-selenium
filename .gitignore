@@ -158,8 +158,8 @@ target/
 .python-version
 
 # Project
-./pytestclass
-./pyunittest
+./pytestclass/
+./pyunittest/
 pyunittest/
 pytestclass/
 

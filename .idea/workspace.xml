@@ -2,41 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e238a16f-8d2b-4b0a-aa27-7bb6867f9c95" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/drivers/geckodriver" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geckodriver.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pytestclass/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pytestclass/class_to_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pytestclass/conftest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pytestclass/test_pyclass_fixture.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pytestclass/test_pyclass_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pytestfunctions/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pytestfunctions/arithmetic_module.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pytestfunctions/geckodriver.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pytestfunctions/py_functions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pytestfunctions/py_functions_one.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pytestfunctions/py_functions_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pytestfunctions/test_arithmetic_module.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pytestfunctions/test_py_functions_one.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyunittest/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyunittest/conftest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyunittest/geckodriver.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyunittest/pytestfixture.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyunittest/pytestone.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyunittest/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyunittest/test_browserlaunch.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyunittest/test_case_run_order.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyunittest/test_case_run_order_relative.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyunittest/test_conftest_demo1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyunittest/test_conftest_demo2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyunittest/test_conftest_demo3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyunittest/test_run_after_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyunittest/test_run_test_multiple_way.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyunittest/testbrowserlaunch.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyunittest/testwebsite.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyunittest/website_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/PySelenium.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PySelenium.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
