@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e238a16f-8d2b-4b0a-aa27-7bb6867f9c95" name="Default Changelist" comment="" />
+    <list default="true" id="e238a16f-8d2b-4b0a-aa27-7bb6867f9c95" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/pydatabase/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pydatabase/data.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pydatabase/pyconnect_mysql.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pydatabase/pyemoji.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pydatabase/readlines.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pytestfunctions/py_functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/pytestfunctions/py_functions.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,7 +48,7 @@
       <recent name="$PROJECT_DIR$/pyunittest" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.py_functions">
+  <component name="RunManager" selected="Python.pyemoji">
     <configuration name="py_functions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PySelenium" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -54,6 +62,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pytestfunctions/py_functions.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pyemoji" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PySelenium" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pydatabase" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pydatabase/pyemoji.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -83,7 +112,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="selenium_waits" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="readlines" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PySelenium" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -91,32 +120,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pyselenium" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pydatabase" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pyselenium/selenium_waits.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="testbrowserlaunch" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PySelenium" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pyunittest" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pyunittest/testbrowserlaunch.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pydatabase/readlines.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -148,11 +156,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.pyemoji" />
+        <item itemvalue="Python.readlines" />
         <item itemvalue="Python.py_functions" />
         <item itemvalue="Python.pytestone" />
         <item itemvalue="Python.testwebsite" />
-        <item itemvalue="Python.testbrowserlaunch" />
-        <item itemvalue="Python.selenium_waits" />
       </list>
     </recent_temporary>
   </component>
@@ -177,12 +185,13 @@
       <screen x="0" y="0" width="1366" height="702" />
     </state>
     <state x="147" y="0" width="1071" height="702" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.702@0.0.1366.702" timestamp="1583048511257" />
-    <state x="165" y="161" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1583048387888">
-      <screen x="0" y="0" width="1366" height="702" />
+    <state x="155" y="187" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585769897910">
+      <screen x="0" y="23" width="1280" height="714" />
     </state>
     <state x="165" y="161" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.702@0.0.1366.702" timestamp="1583048387888" />
-    <state width="1257" height="160" key="GridCell.Tab.0.bottom" timestamp="1585757536088">
-      <screen x="0" y="23" width="1280" height="722" />
+    <state x="155" y="187" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1280.714@0.23.1280.714" timestamp="1585769897910" />
+    <state width="620" height="50" key="GridCell.Tab.0.bottom" timestamp="1585818110142">
+      <screen x="0" y="23" width="1280" height="712" />
     </state>
     <state width="1257" height="198" key="GridCell.Tab.0.bottom/0.0.1280.745@0.0.1280.745" timestamp="1583676225750" />
     <state width="1343" height="133" key="GridCell.Tab.0.bottom/0.0.1366.702@0.0.1366.702" timestamp="1583661594616" />
@@ -194,8 +203,8 @@
     <state width="1338" height="255" key="GridCell.Tab.0.bottom/0.0.1366.715@0.0.1366.715" timestamp="1583574886886" />
     <state width="1338" height="255" key="GridCell.Tab.0.bottom/0.0.1366.716@0.0.1366.716" timestamp="1583572893847" />
     <state width="1257" height="259" key="GridCell.Tab.0.bottom/0.23.1280.711@0.23.1280.711" timestamp="1584785344213" />
-    <state width="1257" height="130" key="GridCell.Tab.0.bottom/0.23.1280.712@0.23.1280.712" timestamp="1585501498265" />
-    <state width="1257" height="190" key="GridCell.Tab.0.bottom/0.23.1280.714@0.23.1280.714" timestamp="1585724439653" />
+    <state width="620" height="50" key="GridCell.Tab.0.bottom/0.23.1280.712@0.23.1280.712" timestamp="1585818110142" />
+    <state width="1257" height="160" key="GridCell.Tab.0.bottom/0.23.1280.714@0.23.1280.714" timestamp="1585771132837" />
     <state width="1257" height="227" key="GridCell.Tab.0.bottom/0.23.1280.716@0.23.1280.716" timestamp="1585755959847" />
     <state width="1257" height="227" key="GridCell.Tab.0.bottom/0.23.1280.717@0.23.1280.717" timestamp="1585756390943" />
     <state width="1257" height="160" key="GridCell.Tab.0.bottom/0.23.1280.722@0.23.1280.722" timestamp="1585757536088" />
@@ -205,8 +214,8 @@
     <state width="1343" height="133" key="GridCell.Tab.0.bottom/0.23.1366.679@0.23.1366.679" timestamp="1583667345263" />
     <state width="1257" height="224" key="GridCell.Tab.0.bottom/0.23.1366.680@0.23.1366.680" timestamp="1583667494681" />
     <state width="1338" height="154" key="GridCell.Tab.0.bottom/0.23.1366.682@0.23.1366.682" timestamp="1583578610699" />
-    <state width="1257" height="160" key="GridCell.Tab.0.center" timestamp="1585757536087">
-      <screen x="0" y="23" width="1280" height="722" />
+    <state width="620" height="50" key="GridCell.Tab.0.center" timestamp="1585818110141">
+      <screen x="0" y="23" width="1280" height="712" />
     </state>
     <state width="1257" height="198" key="GridCell.Tab.0.center/0.0.1280.745@0.0.1280.745" timestamp="1583676225749" />
     <state width="1343" height="133" key="GridCell.Tab.0.center/0.0.1366.702@0.0.1366.702" timestamp="1583661594615" />
@@ -218,8 +227,8 @@
     <state width="1338" height="255" key="GridCell.Tab.0.center/0.0.1366.715@0.0.1366.715" timestamp="1583574886884" />
     <state width="1338" height="255" key="GridCell.Tab.0.center/0.0.1366.716@0.0.1366.716" timestamp="1583572893846" />
     <state width="1257" height="259" key="GridCell.Tab.0.center/0.23.1280.711@0.23.1280.711" timestamp="1584785344211" />
-    <state width="1257" height="130" key="GridCell.Tab.0.center/0.23.1280.712@0.23.1280.712" timestamp="1585501498264" />
-    <state width="1257" height="190" key="GridCell.Tab.0.center/0.23.1280.714@0.23.1280.714" timestamp="1585724439652" />
+    <state width="620" height="50" key="GridCell.Tab.0.center/0.23.1280.712@0.23.1280.712" timestamp="1585818110141" />
+    <state width="1257" height="160" key="GridCell.Tab.0.center/0.23.1280.714@0.23.1280.714" timestamp="1585771132836" />
     <state width="1257" height="227" key="GridCell.Tab.0.center/0.23.1280.716@0.23.1280.716" timestamp="1585755959846" />
     <state width="1257" height="227" key="GridCell.Tab.0.center/0.23.1280.717@0.23.1280.717" timestamp="1585756390942" />
     <state width="1257" height="160" key="GridCell.Tab.0.center/0.23.1280.722@0.23.1280.722" timestamp="1585757536087" />
@@ -229,8 +238,8 @@
     <state width="1343" height="133" key="GridCell.Tab.0.center/0.23.1366.679@0.23.1366.679" timestamp="1583667345262" />
     <state width="1257" height="224" key="GridCell.Tab.0.center/0.23.1366.680@0.23.1366.680" timestamp="1583667494680" />
     <state width="1338" height="154" key="GridCell.Tab.0.center/0.23.1366.682@0.23.1366.682" timestamp="1583578610698" />
-    <state width="1257" height="160" key="GridCell.Tab.0.left" timestamp="1585757536087">
-      <screen x="0" y="23" width="1280" height="722" />
+    <state width="620" height="50" key="GridCell.Tab.0.left" timestamp="1585818110140">
+      <screen x="0" y="23" width="1280" height="712" />
     </state>
     <state width="1257" height="198" key="GridCell.Tab.0.left/0.0.1280.745@0.0.1280.745" timestamp="1583676225748" />
     <state width="1343" height="133" key="GridCell.Tab.0.left/0.0.1366.702@0.0.1366.702" timestamp="1583661594614" />
@@ -242,8 +251,8 @@
     <state width="1338" height="255" key="GridCell.Tab.0.left/0.0.1366.715@0.0.1366.715" timestamp="1583574886883" />
     <state width="1338" height="255" key="GridCell.Tab.0.left/0.0.1366.716@0.0.1366.716" timestamp="1583572893844" />
     <state width="1257" height="259" key="GridCell.Tab.0.left/0.23.1280.711@0.23.1280.711" timestamp="1584785344210" />
-    <state width="1257" height="130" key="GridCell.Tab.0.left/0.23.1280.712@0.23.1280.712" timestamp="1585501498263" />
-    <state width="1257" height="190" key="GridCell.Tab.0.left/0.23.1280.714@0.23.1280.714" timestamp="1585724439652" />
+    <state width="620" height="50" key="GridCell.Tab.0.left/0.23.1280.712@0.23.1280.712" timestamp="1585818110140" />
+    <state width="1257" height="160" key="GridCell.Tab.0.left/0.23.1280.714@0.23.1280.714" timestamp="1585771132836" />
     <state width="1257" height="227" key="GridCell.Tab.0.left/0.23.1280.716@0.23.1280.716" timestamp="1585755959845" />
     <state width="1257" height="227" key="GridCell.Tab.0.left/0.23.1280.717@0.23.1280.717" timestamp="1585756390941" />
     <state width="1257" height="160" key="GridCell.Tab.0.left/0.23.1280.722@0.23.1280.722" timestamp="1585757536087" />
@@ -253,8 +262,8 @@
     <state width="1343" height="133" key="GridCell.Tab.0.left/0.23.1366.679@0.23.1366.679" timestamp="1583667345261" />
     <state width="1257" height="224" key="GridCell.Tab.0.left/0.23.1366.680@0.23.1366.680" timestamp="1583667494679" />
     <state width="1338" height="154" key="GridCell.Tab.0.left/0.23.1366.682@0.23.1366.682" timestamp="1583578610697" />
-    <state width="1257" height="160" key="GridCell.Tab.0.right" timestamp="1585757536088">
-      <screen x="0" y="23" width="1280" height="722" />
+    <state width="620" height="50" key="GridCell.Tab.0.right" timestamp="1585818110141">
+      <screen x="0" y="23" width="1280" height="712" />
     </state>
     <state width="1257" height="198" key="GridCell.Tab.0.right/0.0.1280.745@0.0.1280.745" timestamp="1583676225749" />
     <state width="1343" height="133" key="GridCell.Tab.0.right/0.0.1366.702@0.0.1366.702" timestamp="1583661594615" />
@@ -266,8 +275,8 @@
     <state width="1338" height="255" key="GridCell.Tab.0.right/0.0.1366.715@0.0.1366.715" timestamp="1583574886885" />
     <state width="1338" height="255" key="GridCell.Tab.0.right/0.0.1366.716@0.0.1366.716" timestamp="1583572893847" />
     <state width="1257" height="259" key="GridCell.Tab.0.right/0.23.1280.711@0.23.1280.711" timestamp="1584785344211" />
-    <state width="1257" height="130" key="GridCell.Tab.0.right/0.23.1280.712@0.23.1280.712" timestamp="1585501498264" />
-    <state width="1257" height="190" key="GridCell.Tab.0.right/0.23.1280.714@0.23.1280.714" timestamp="1585724439652" />
+    <state width="620" height="50" key="GridCell.Tab.0.right/0.23.1280.712@0.23.1280.712" timestamp="1585818110141" />
+    <state width="1257" height="160" key="GridCell.Tab.0.right/0.23.1280.714@0.23.1280.714" timestamp="1585771132837" />
     <state width="1257" height="227" key="GridCell.Tab.0.right/0.23.1280.716@0.23.1280.716" timestamp="1585755959846" />
     <state width="1257" height="227" key="GridCell.Tab.0.right/0.23.1280.717@0.23.1280.717" timestamp="1585756390942" />
     <state width="1257" height="160" key="GridCell.Tab.0.right/0.23.1280.722@0.23.1280.722" timestamp="1585757536088" />

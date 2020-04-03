@@ -1,11 +1,10 @@
 from selenium import webdriver
 import pytest
 
+
 # A- Arrange (Setup/ Prerequisite)
 # A - Action
 # A - Assertion/Validation
-
-
 
 def test_url_open_chrome():
     driver = webdriver.Chrome(executable_path="/Users/gaurnitai/Desktop/PySelenium/drivers/chromedriver")
@@ -18,7 +17,6 @@ def test_url_open_chrome():
     #     print('Its matching')
     # else:
     #     print('Its not matching')
-
 
 
 def test_url_open_firefox():
