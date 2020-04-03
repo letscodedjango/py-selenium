@@ -1,13 +1,16 @@
 import pytest
 from pytestfunctions import arithmetic_module
 
+#pip install pytest-ordering
 
-@pytest.mark.run(order=1)
+@pytest.mark.run(after='test_mul')
 def test_add():
     res = arithmetic_module.add(10, 20)
-    assert res == 30
+    assert res == 30 # pass
     res = arithmetic_module.add(20.30, 20.70)
-    assert res == 40
+    assert res == 40  # fail
+    res = arithmetic_module.add(20.30, '23')
+    assert res == 43.30  # fail
 
 
 @pytest.mark.run(order=3)
