@@ -1,25 +1,23 @@
 import pytest
-from pytestfunctions import conftest
 
 
 # DRY - Do not repeat yourself
 
 @pytest.fixture()
 def setUp():
-    print('Setting driver path')
-    print('launching browser')
+    print('Taking screenshot  before test')
     yield
-    print('driver close')
+    print('Taking screenshot after test')
 
 
-def test_browser_launch(oneTimeSetup):
+def test_browser_launch(oneTimeSetUp, setUp):
     # print('Setting driver path')
     # print('launching browser')
     assert True
     # print('driver close')
 
 
-def test_homepage_title(oneTimeSetup):
+def test_homepage_title(oneTimeSetUp, setUp):
     # print('Setting driver path')
     # print('launching browser')
     print('Getting homepage title')
@@ -28,7 +26,7 @@ def test_homepage_title(oneTimeSetup):
     # print('driver close')
 
 
-def test_homepage_links(oneTimeSetup):
+def test_homepage_links(oneTimeSetUp, setUp):
     # print('Setting driver path')
     # print('launching browser')
     print('Getting all links')

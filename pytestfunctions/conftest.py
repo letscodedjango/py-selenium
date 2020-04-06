@@ -1,7 +1,10 @@
 import pytest
 
 
-@pytest.mark.usefixtures(scope='module')
+@pytest.fixture(scope='module')
 def oneTimeSetUp():
     print('Setting driver path')
     print('launching browser')
+    yield
+    print('drive close')
+    print('driver quit')
