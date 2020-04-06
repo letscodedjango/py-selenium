@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e238a16f-8d2b-4b0a-aa27-7bb6867f9c95" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/pytestfunctions/amit_code.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytestfunctions/arithmetic_class.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytestfunctions/test_arithmetic_class.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pytestfunctions/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/pytestfunctions/conftest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pytestfunctions/test_website_homepage.py" beforeDir="false" afterPath="$PROJECT_DIR$/pytestfunctions/test_website_homepage.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
