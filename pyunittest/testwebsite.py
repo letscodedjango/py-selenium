@@ -2,6 +2,7 @@ from selenium import webdriver
 import pytest
 
 
+@pytest.mark.usefixtures("setUp", "oneTimeSetUp")
 class TestWebsiteHome():
 
     def test_homepage_title(self):
